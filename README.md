@@ -3,8 +3,9 @@
 This is a android "version" of webRcade.
 
 All we have done is run through web2apk and made a app . 
+to use this just download and install apk .
 
-Below is documentation on webRcade.. 
+### webRcade Offical Info
 
 ## webЯcade: Feed-driven gaming
 
