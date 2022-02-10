@@ -1,13 +1,15 @@
 # webRcade
 
+# Current Version 1.1 
+
 This is a android "version" of webRcade.
 
-All we have done is run through web2apk and made a app . 
+All we have done is made a app that loads thier site . 
 to use this just download and install apk .
 
-### webRcade Offical Info
+# webRcade Offical Info
 
-## webЯcade: Feed-driven gaming
+# webЯcade: Feed-driven gaming
 
   
 WebЯcade consists of an intuitive web-based front end that enables playing popular gaming content entirely within the context of the browser across a wide variety of platforms (Xbox Series X|S, iOS, Android, Windows, macOS). Gamepads are supported (Bluetooth and USB) for both front-end navigation and while playing games.
@@ -16,11 +18,11 @@ The content for playing games (binaries, etc.) and populating the front-end (ima
 
 
 
-## Play Now.
+# Play Now.
 
 Play webЯcade now at play.webrcade.com.
 
-## Documentation
+# Documentation
 
 The webЯcade Documentation consists of a User Guide, instructions specific to each Platform (OS, devices) supported by webЯcade, detailed information (button mappings, etc.) for the various Application Types (emulators, etc.), and guidance for developing your own Feeds.
 
@@ -36,11 +38,11 @@ What is (and is not) webЯcade?
 
 The following lists further describe webЯcade in terms of its focus.
 
-## Primary focus:
+# Primary focus:
 
 Runs entirely within the web browser leveraging JavaScript, WebAssembly, and the HTML5 gamepad and audio interfacesAdaptive user interface that supports a wide variety of platforms (Xbox Series X|S, iOS, Android, Windows, macOS)Native gamepad support (Bluetooth and USB) for both front-end navigation and while playing gamesUser-defined cloud-based feeds identify the resources (images, etc.) required to populate the front-end as well as the content (binaries, etc.) required to play gamesEach feed item (game, etc.) has an associated application type. Application types include emulators (Atari, Sega, Nintendo) and game engines (Classic Doom). The quantity and types of applications will continue to expand over time.
 
-## Not focused on:
+# Not focused on:
 
 Directly playing locally stored game content (ROMs, etc.)
 (Technically possible by using a local web server, but not a primary use case)The "latest and greatest" emulator features and compatibility
